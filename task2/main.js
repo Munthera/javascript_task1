@@ -24,5 +24,3 @@ if(operation === "+"){
 if (result !== undefined){
     console.log("The result is:",result);
 }
-
-
